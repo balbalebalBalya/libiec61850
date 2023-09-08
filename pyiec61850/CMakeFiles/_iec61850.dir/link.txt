@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared  -o _iec61850.so CMakeFiles/_iec61850.dir/CMakeFiles/_iec61850.dir/iec61850PYTHON_wrap.cxx.o  -Wl,-rpath,/home/ubuntu/libiec61850/libiec61850/src: /usr/lib/x86_64-linux-gnu/libpython3.8.so ../src/libiec61850.so.1.5.2 ../hal/libhal-shared.a 
